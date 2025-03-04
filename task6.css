@@ -1,0 +1,44 @@
+body{
+    
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    text-align: center;
+    color:pink;
+}
+.super{
+    background: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    width: 100%;
+    max-width: 400px;
+}
+.container{
+    display: flex;
+    gap:10px;
+}
+
+
+ul li{
+    list-style-type: none;
+    
+    
+}
+button{
+    margin:5px;
+    padding:10px;
+    
+    
+}
+#btn{
+    background-color: pink;
+    
+}
+span{
+    display: inline-block;
+    padding:10px;
+    margin:10px;
+    min-width: 100px;
+}
+
